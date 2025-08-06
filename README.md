@@ -1,4 +1,4 @@
-# Task 2 – Phishing Email Analysis | Cybersecurity Internship
+# Task 2 – Phishing Email Analysis | Elevate Labs Cybersecurity Internship
 
 ##  Objective
 Analyze a phishing email to identify key threat indicators like spoofed sender addresses, malicious links, header anomalies, and psychological manipulation techniques.
@@ -47,13 +47,13 @@ This screenshot shows a simulated phishing email with spoofed sender, urgency, a
 
 ![Phishing Email Preview](phishing_email_preview.png)
 
-### 🧾 Email Header Scan – MXToolbox
+###  Email Header Scan – MXToolbox
 This screenshot shows the results of scanning the email header using MXToolbox, highlighting anomalies in Return-Path and originating IP.
 
 ![MXToolbox Header Scan](mxtoolbox_analysis.png)
 
 
-##  Disclaimer
+## Disclaimer
 This analysis is for educational purposes only. The email content and headers are simulated and not part of any real phishing campaign.
 
 ---
