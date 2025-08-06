@@ -1,0 +1,5 @@
+Return-Path: <support@paypai.com>
+Received: from suspicious-host.ru (198.51.x.x)
+Subject: Urgent Verification Required
+Date: Wed, 06 Aug 2025 08:21:10 +0000
+X-Mailer: PHP/7.4.12
