@@ -58,7 +58,7 @@ This analysis is for educational purposes only. The email content and headers ar
 
 ---
 
-🔹 Author: ReconNinja7
+🔹 Author: Mohammad Farhan Hussain
 🔹 Internship: Elevate Labs Cybersecurity Internship
 🔹 Tools: Mx tool box
 
