@@ -60,4 +60,5 @@ This analysis is for educational purposes only. The email content and headers ar
 
 🔹 Author: ReconNinja7
 🔹 Internship: Elevate Labs Cybersecurity Internship
-🔹 Tools: Nessus Essentials, Kali Linux
+🔹 Tools: Mx tool box
+
