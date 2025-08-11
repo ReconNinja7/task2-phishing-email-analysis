@@ -58,6 +58,6 @@ This analysis is for educational purposes only. The email content and headers ar
 
 ---
 
-##  Completed by
-**ReconNinja7**  
-GitHub: [https://github.com/ReconNinja7](https://github.com/ReconNinja7)
+🔹 Author: ReconNinja7
+🔹 Internship: Elevate Labs Cybersecurity Internship
+🔹 Tools: Nessus Essentials, Kali Linux
